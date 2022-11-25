@@ -21,7 +21,7 @@ const Exercises = ({ exercises, setExercises, bodyPart }) => {
 				))}
 			</Stack>
 		</Box>	
-	)
-}
+	);
+};
 
-export default Exercises
+export default Exercises;
