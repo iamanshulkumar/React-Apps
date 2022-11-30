@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js", // to reload api on every code change, also to use "dev" command to our app
-    "start": "node index.js" // to run index.js with node command
+    "dev": "nodemon index.js",
+    "start": "node index.js" 
   },
   "keywords": [],
   "author": "",
